@@ -1,4 +1,3 @@
-nome = "Eduardo"
-sobrenome = "Barreto"
+nome = input("Digite seu nome: ")
 
-print(nome, sobrenome)
+print(nome)
