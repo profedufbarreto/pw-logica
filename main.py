@@ -1,2 +1,9 @@
-print("Olá mundo!")
-print("Estou programando em Python!")
+a = 5 #isso é um número inteiro
+b = 6.2 #isso é um número com .
+nome = "Eduardo" #aqui é uma string (texto)
+ligado = True #aqui é um bool
+
+print(a)
+print(b)
+print(nome)
+print(ligado)
