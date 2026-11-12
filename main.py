@@ -1,11 +1,9 @@
-nome = input("Qual seu nome: ")
-idade = input("Qual sua idade: ")
-altura = input("Qual sua altura: ")
-escola = input("Em qual escola você estuda: ")
-cidade = input("Em qual cidade você mora: ")
+nomes = ["Lucas", "Vinicios", "Davi", "Arthur S", "Toddynho", "Arthur F",
+        "Maria", "Pietra", "Miguel", "Apollo", "Bernardo", "Eric",
+        "Kaua"]
 
-print("O nome da pessoa é", nome)
-print("Ela(e) tem", idade, "anos.")
-print("A altura é de", altura, "m.")
-print("Estuda na escola", escola)
-print("Mora em", cidade)
+print(nomes[10])
+print(nomes[7])
+print(nomes[2])
+print(nomes[4])
+print(nomes[12])
