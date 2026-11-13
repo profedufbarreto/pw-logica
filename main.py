@@ -1,10 +1,8 @@
-nome = "Eduardo"
-idade = 39
-altura = 1.70
-aprovado = True
+nome = input("Seu nome: ")
+n1 = float(input("Nota 1: "))
+n2 = float(input("Nota 2: "))
+n3 = float(input("Nota 3: "))
 
-print(type(nome))
-print(type(idade))
-print(type(altura))
-print(type(aprovado))
+media = (n1 + n2 + n3) / 3
 
+print(f"{nome}, sua média é {media:.1f}")
