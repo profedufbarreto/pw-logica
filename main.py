@@ -1,10 +1,10 @@
-a = 10
-b = 3
+nome = "Eduardo"
+idade = 39
+altura = 1.70
+aprovado = True
 
-print(f"{a} + {b} = {a + b}")
-print(f"{a} - {b} = {a - b}")
-print(f"{a} x {b} = {a * b}")
-print(f"{a} / {b} = {a / b}")
-print(f"{a} // {b} = {a // b}")
-print(f"{a} % {b} = {a % b}")
-print(f"{a} ** {b} = {a ** b}")
+print(type(nome))
+print(type(idade))
+print(type(altura))
+print(type(aprovado))
+
