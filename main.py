@@ -1,6 +1,10 @@
-print(5 + 5)
-print(2 + 2)
-print(1 + 4)
-print(10 - 2)
-print(7 * 3)
-print(10 / 2)
+a = 10
+b = 3
+
+print(f"{a} + {b} = {a + b}")
+print(f"{a} - {b} = {a - b}")
+print(f"{a} x {b} = {a * b}")
+print(f"{a} / {b} = {a / b}")
+print(f"{a} // {b} = {a // b}")
+print(f"{a} % {b} = {a % b}")
+print(f"{a} ** {b} = {a ** b}")
