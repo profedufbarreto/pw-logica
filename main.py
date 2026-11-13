@@ -1,8 +1,7 @@
 nome = input("Seu nome: ")
-n1 = float(input("Nota 1: "))
-n2 = float(input("Nota 2: "))
-n3 = float(input("Nota 3: "))
+print("=" * 30)
+print("Olá, " + nome + "!")
+print("=" * 30)
 
-media = (n1 + n2 + n3) / 3
-
-print(f"{nome}, sua média é {media:.1f}")
+print(nome * 3)        
+print(len(nome))       
