@@ -1,3 +1,5 @@
-fruits = ["apple", "banana", "cherry"]
+text = "Hello World"
 
-print("pineapple" not in fruits)
+print("H" in text)
+print("Hello" in text)
+print("z" not in text)
