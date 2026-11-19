@@ -1,8 +1,4 @@
-list1 = ["apple", "banana", "cherry"]
-list2 = [1, 5, 7, 9, 3]
-list3 = [True, False, False]
+list1 = ["Dudu", 39, 1.70, "Male", "Senac"]
 
-print(list1)
-print(len(list2))
-for i in range(3):
-    print(list3)
+print(f"{list1[0]} tem {list1[1]} anos.")
+print(f"Medindo {list1[2]}m, sendo {list1[3]} e trabalha no {list1[4]}")
