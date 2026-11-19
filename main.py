@@ -1,3 +1,3 @@
-list1 = ["computador", "hardware", "mouse"]
+thislist = ["apple", "banana", "cherry"]
 
-print(type(list1))
+print(thislist[-2])
