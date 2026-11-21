@@ -1,4 +1,3 @@
-thislist = ["apple", "banana", "cherry"]
+thislit = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 
-print(thislist[2])
-print(thislist[-1])
+print(thislit[0:2])
