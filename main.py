@@ -1,4 +1,5 @@
-thislist = ["apple", "banana", "cherry"]
-thislist[1] = "orange"
+thislist = ["apple", "banana", "cherry", "orange", "kiwi", "mango"]
+
+thislist[1:3] = ["bkackcurrant", "watermelon"]
 
 print(thislist)
